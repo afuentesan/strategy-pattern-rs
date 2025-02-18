@@ -79,7 +79,7 @@ To use these macros in your project, add the following dependency to your `Cargo
 ```rust
 [dependencies]
 inventory = "0.3"
-regex = "1.11.1" # Only required if you are using the `search = "RegExp"` option. 
+regex = "1.11.1" `#Only required if you are using the `search = "RegExp"` option.`
 ```
 
 ## Contributing
