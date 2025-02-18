@@ -10,7 +10,7 @@ repository = "https://github.com/afuentesan/strategy-pattern-rs"
 homepage = "https://github.com/afuentesan/strategy-pattern-rs"
 documentation = "https://github.com/afuentesan/strategy-pattern-rs"
 keywords = ["strategy", "pattern", "proc-macro", "rust", "design-pattern"]
-categories = ["development-tools::procedural-macro", "rust-patterns"]
+categories = ["rust-patterns", "development-tools"]
 
 [lib]
 name = "strategy_pattern_rs"
