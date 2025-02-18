@@ -3,6 +3,15 @@ name = "strategy-pattern-rs"
 version = "0.1.0"
 edition = "2021"
 
+authors = ["Ángel Fuente <awpakj@gmail.com>"]
+description = "A procedural macro library for implementing the Strategy Pattern in Rust."
+license = "MIT OR Apache-2.0"      # Licencia (MIT o Apache-2.0 son comunes en Rust)
+repository = "https://github.com/afuentesan/strategy-pattern-rs"
+homepage = "https://github.com/afuentesan/strategy-pattern-rs"
+documentation = "https://github.com/afuentesan/strategy-pattern-rs"
+keywords = ["strategy", "pattern", "proc-macro", "rust", "design-pattern"]
+categories = ["development-tools::procedural-macro", "rust-patterns"]
+
 [lib]
 name = "strategy_pattern_rs"
 path = "src/lib.rs"
